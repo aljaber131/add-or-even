@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class odd_or_even {
+public class Odd_or_even {
 
 	public static void main(String[] args) {
 		Scanner havoic = new Scanner(System.in);
